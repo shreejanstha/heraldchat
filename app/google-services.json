@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "272388581815",
+    "firebase_url": "https://heraldchat-daaab.firebaseio.com",
+    "project_id": "heraldchat-daaab",
+    "storage_bucket": "heraldchat-daaab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272388581815:android:90e80908996f3ba3",
+        "android_client_info": {
+          "package_name": "com.example.heraldchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "272388581815-88cog6fvolpj3ipf36s5jn7e8qg0n8dc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.heraldchat",
+            "certificate_hash": "a374a2cf6a1982a52c0a47d04eb85235caf14dcc"
+          }
+        },
+        {
+          "client_id": "272388581815-j4d687bn4ibf8hjlach3k8ohkbnna4ok.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.heraldchat",
+            "certificate_hash": "3dbe546879d3750fd5e1dfb33552d1dee57c158f"
+          }
+        },
+        {
+          "client_id": "272388581815-cat8n9ec499fnpiebd1infe2vhs6o2r9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkhzbDM5hL0vuGemyiChXrY0VFHEM8HzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "272388581815-cat8n9ec499fnpiebd1infe2vhs6o2r9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
